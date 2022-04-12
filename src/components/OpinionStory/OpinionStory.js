@@ -27,6 +27,8 @@ const Link = styled.a`
 
     @media ${QUERIES.tabletOnly} {
         border-bottom: none;
+        flex: 1;
+        margin: 16px;
     }
 `;
 
